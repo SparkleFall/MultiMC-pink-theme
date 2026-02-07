@@ -5,7 +5,7 @@
 ## How to use:
 
 <ol>
-  <li> Download the zip from <a href="https://github.com/GentlemanMC/Blueish-grey/archive/refs/tags/1.0.zip">here</a> </li>
+  <li> Download the zip from <a href="https://github.com/SparkleFall/MultiMC-pink-theme/archive/refs/heads/main.zip">here</a> </li>
   <li> Goto your MultiMC installtion path </li>
   <li> Extract <code>theme.json</code> and <code>ThemeStyle.css</code> to <code> [INSTALLTION_PATH] \MultiMC\themes\custom</code> </li>
   <li> Goto <code> MultiMC -> settings -> launcher -> user interface</code> </li>
@@ -19,8 +19,8 @@
     <br>
        <br>
 
+![image](https://github.com/user-attachments/assets/f584e9dd-0e09-4011-b396-1a70727a1949)
+![image](https://github.com/user-attachments/assets/2c1eeb73-7494-417a-8ebe-214b8fdf5fa1>
+)
 
-
-![image]()
-![image]()
 </p>
