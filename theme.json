@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#FDDDE6",
+        "Base": "#FDDDE6",
+        "BrightText": "#000000",
+        "Button": "#FBCAE0",
+        "ButtonText": "#D74894",
+        "Highlight": "#FF96D0",
+        "HighlightedText": "#942b94",
+        "Link": "##662d91",
+        "Text": "#D74894",
+        "ToolTipBase": "#f8f8f2",
+        "ToolTipText": "#942b94 ",
+        "Window": "#FFC0CB",
+        "WindowText": "#D74894",
+        "fadeAmount": 0,
+        "fadeColor": "#942b94"
+    },
+    "name": "Lime's pink theme",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
